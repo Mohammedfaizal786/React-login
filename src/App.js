@@ -4,17 +4,19 @@ import AppHeader from './Components/AppHeader';
 import SideMenu from './Components/SideMenu';
 import AppFooter from './Components/AppFooter';
 import PageContent from './Components/PageContent';
+import LoginSignUp from './Components/LoginSingup';
 
 function App(){
   return(
-    <div className="App">
+    <LoginSignUp/>
+    /*<div className="App">
       <AppHeader/>
       <Space className='SideMenuAndPageContent'>
         <SideMenu></SideMenu>
         <PageContent></PageContent>
       </Space>
       <AppFooter/>
-    </div>
+    </div>*/
   )
 
 }
