@@ -4,7 +4,7 @@ import AppHeader from './Components/AppHeader';
 import SideMenu from './Components/SideMenu';
 import AppFooter from './Components/AppFooter';
 import PageContent from './Components/PageContent';
-import LoginSignUp from './Components/LoginSingup/LoginSignUp.js';
+import LoginSingUp from './Components/LoginSingup/LoginSignUp';
 
 function App(){
   return(
