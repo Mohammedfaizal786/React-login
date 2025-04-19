@@ -1,0 +1,31 @@
+.mine{
+    width: 100%;
+    height: 70px;
+    border: 1px solid black;
+}
+.mine1{
+    display: inline-flex;
+    list-style: none;
+}
+.mine2{
+   margin-left: 40px;
+   text-decoration: none;
+    transition: ease-in-out;
+    cursor: pointer;
+
+}
+.mine2:hover{
+    color: red;
+}
+.me{
+    border: 2px solid black;
+    width: 100px;
+    height: 200xp;
+    font-family: 'Courier New', Courier, monospace;
+}
+.me2{
+    border: 2px solid black;
+    width: 100px;
+    height: 200xp;
+    font-family: 'Courier New', Courier, monospace;
+}
